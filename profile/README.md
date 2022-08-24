@@ -1,4 +1,3 @@
-# Paradise of Developer
 ![logo](https://cdn.discordapp.com/attachments/794248913137565726/1011919058591023164/PD.png)
 > As Paradise of Developer we do not make profit. We aim for the committees under us to go further. We currently have three committees. (Poland, US/USA and Turkey.) We want to learn new things and develop further with simple or complex projects.
 
